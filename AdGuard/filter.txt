@@ -12,6 +12,7 @@ verystream*.270p.mp4
 verystream*.360p.mp4
 verystream*.450p.mp4
 verystream.com/doge-wow
+@@||verystream.com$document
 @@||verystream.net$document
 
 tfreeca22.com##body > table > tbody > tr > td:first-child
