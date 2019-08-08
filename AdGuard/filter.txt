@@ -1,6 +1,7 @@
 chatango.com
 facebook.com
 twitter.com
+doubleclick.net
 
 silvertreetvlink.blogspot.com###navbar-iframe
 jetload.net
@@ -11,6 +12,7 @@ verystream*.270p.mp4
 verystream*.360p.mp4
 verystream*.450p.mp4
 verystream.com/doge-wow
+@@||verystream.net$document
 
 tfreeca22.com##body > table > tbody > tr > td:first-child
 tfreeca22.com##.partner\d+*
