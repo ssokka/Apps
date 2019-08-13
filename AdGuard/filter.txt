@@ -13,11 +13,11 @@ verystream*.360p.mp4
 verystream*.450p.mp4
 verystream.com/doge-wow
 
-tfreeca22.com##body > table > tbody > tr > td:first-child
-tfreeca22.com##.partner\d+*
-tfreeca22.com##a[href*="#"]
-tfreeca22.com##.view_content > tbody > tr:first-child
-tfreeca22.com##.view_content > tbody > tr:nth-child(2) > td > div
+tfreeca*##body > table > tbody > tr > td:first-child
+tfreeca*##.partner\d+*
+tfreeca*##a[href*="#"]
+tfreeca*##.view_content > tbody > tr:first-child
+tfreeca*##.view_content > tbody > tr:nth-child(2) > td > div
 
 torrentwal.com##div[id*="_ad_"]
 torrentwal.com##div[id*="inserting"]
