@@ -24,4 +24,4 @@ torrentwal.com##div[id*="inserting"]
 
 onnada.com##header:nth-child(10) > nav > div.layout-top:first-child > div.submenu:nth-child(3) > div.wrap > ul > li:last-child > a.title:first-child
 
-tvkim.com/banner
+tvkim*/banner
