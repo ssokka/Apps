@@ -19,6 +19,9 @@ tfreeca22.com##a[href*="#"]
 tfreeca22.com##.view_content > tbody > tr:first-child
 tfreeca22.com##.view_content > tbody > tr:nth-child(2) > td > div
 
+torrenger.com##div[id*="banner"]
+torrentblack.com##div[id*="banner"]
+
 torrentwal.com##div[id*="_ad_"]
 torrentwal.com##div[id*="inserting"]
 
