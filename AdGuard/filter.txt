@@ -11,6 +11,9 @@ gounlimited.to
 verystream*.270p.mp4
 verystream*.360p.mp4
 verystream*.450p.mp4
+hlsplay.com*.270p.mp4
+hlsplay.com*.360p.mp4
+hlsplay.com*.450p.mp4
 verystream.com/doge-wow
 
 tfreeca22.com##body > table > tbody > tr > td:first-child
