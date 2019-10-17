@@ -12,7 +12,7 @@ hlsplay.com
 verystream*.270p.mp4
 verystream*.360p.mp4
 verystream*.450p.mp4
-#verystream.com/doge-wow
+verystream.com/doge-wow
 
 tfreeca22.com##body > table > tbody > tr > td:first-child
 tfreeca22.com##.partner\d+*
