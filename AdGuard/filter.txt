@@ -27,10 +27,8 @@ onnada.com##header:nth-child(10) > nav > div.layout-top:first-child > div.submen
 
 tvkim.com/banner
 
-jetload.net#@%#Object.defineProperty(Object.prototype, 'popns', { get: function() { return; }, set: function() { return; } });
-@@||jetload.net/favicon.ico$domain=jetload.net
-@@||jetload.net/jet/ng/controllers/PlayXControllerMP4.js
 onnada.com##header:nth-child(11) > nav > div.layout-top:first-child > div.submenu:nth-child(3) > div.wrap > ul > li:last-child > a.title:first-child
+
 moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:first-child
 moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:nth-child(2)
 moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:nth-child(3)
