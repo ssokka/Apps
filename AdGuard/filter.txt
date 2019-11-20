@@ -31,6 +31,7 @@ torrenger.com###banner*
 ##div.container:nth-child(4) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161542.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child
 
 moca-2080.com###floatdiv_l1
+moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.wif_wrap:last-child > div:nth-child(2)
 moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:first-child
 moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:nth-child(6)
 
