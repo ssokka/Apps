@@ -2,12 +2,9 @@ chatango.com
 facebook.com
 twitter.com
 doubleclick.net
+a4.dasiboda.is
 
 silvertreetvlink.blogspot.com###navbar-iframe
-jetload.net
-gounlimited.to
-supervid.net
-flashvid.net
 verystream*.270p.mp4
 verystream*.360p.mp4
 verystream*.450p.mp4
@@ -23,5 +20,18 @@ torrentwal.com##div[id*="_ad_"]
 torrentwal.com##div[id*="inserting"]
 
 onnada.com##header:nth-child(10) > nav > div.layout-top:first-child > div.submenu:nth-child(3) > div.wrap > ul > li:last-child > a.title:first-child
+onnada.com##header:nth-child(11) > nav > div.layout-top:first-child > div.submenu:nth-child(3) > div.wrap > ul > li:last-child > a.title:first-child
 
 tvkim.com/banner
+
+##a > img.banner_right
+
+torrenger.com###banner*
+
+##div.container:nth-child(4) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161542.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child
+
+moca-2080.com###floatdiv_l1
+moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:first-child
+moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:nth-child(6)
+
+1337x.to#@#a[style]
