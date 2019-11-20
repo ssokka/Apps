@@ -10,6 +10,7 @@ verystream*.360p.mp4
 verystream*.450p.mp4
 verystream.com/doge-wow
 hlssrv.com*.png
+hlssrv.com*.m3u8
 hlssrv.com*init.mp4
 
 tfreeca22.com##body > table > tbody > tr > td:first-child
