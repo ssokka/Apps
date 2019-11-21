@@ -1,10 +1,9 @@
-@@||example.com
+@@||daouoffice.com
+@@||discordapp.com
+@@||duckdns.org
 @@||fortinet.com
 @@||google.com
-@@||discordapp.com
 @@||oraclecloud.com
-@@||foryounet.daouoffice.com
-@@||ssokka.duckdns.org
 
 chatango.com
 facebook.com
@@ -14,18 +13,19 @@ trustarc.com
 a4.dasiboda.is
 
 silvertreetvlink.blogspot.com###navbar-iframe
+supervid.com
+supervid.net
+flashvid.com
+flashvid.net
+hlsplay.com
+hlsplay.net
+jetload.com
+jetload.net
+gounlimited.to
 verystream*.270p.mp4
 verystream*.360p.mp4
 verystream*.450p.mp4
 verystream.com/doge-wow
-hlsplay.com
-hlssrv.com*.png
-hlssrv.com*.m3u8
-hlssrv.com*init.mp4
-flashvid.com
-jetload.com
-supervid.net
-gounlimited.to
 
 tfreeca22.com##body > table > tbody > tr > td:first-child
 tfreeca22.com##.partner\d+*
