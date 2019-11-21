@@ -1,3 +1,11 @@
+@@||example.com
+@@||fortinet.com
+@@||google.com
+@@||discordapp.com
+@@||oraclecloud.com
+@@||foryounet.daouoffice.com
+@@||ssokka.duckdns.org
+
 chatango.com
 facebook.com
 twitter.com
