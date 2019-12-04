@@ -11,6 +11,7 @@ twitter.com
 doubleclick.net
 trustarc.com
 a4.dasiboda.is
+addthis.com
 
 silvertreetvlink.blogspot.com###navbar-iframe
 disqus.com
