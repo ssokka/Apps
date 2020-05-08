@@ -4,6 +4,7 @@
 @@||fortinet.com
 @@||google.com
 @@||oraclecloud.com
+@@||naver.com
 
 chatango.com
 facebook.com
@@ -35,6 +36,9 @@ tfreeca22.com##.view_content > tbody > tr:nth-child(2) > td > div
 
 torrentwal.com##div[id*="_ad_"]
 torrentwal.com##div[id*="inserting"]
+
+torrentmu1.net###hd_pops_1
+torrentmu1.net###hd_pops_2
 
 onnada.com##header:nth-child(10) > nav > div.layout-top:first-child > div.submenu:nth-child(3) > div.wrap > ul > li:last-child > a.title:first-child
 onnada.com##header:nth-child(11) > nav > div.layout-top:first-child > div.submenu:nth-child(3) > div.wrap > ul > li:last-child > a.title:first-child
