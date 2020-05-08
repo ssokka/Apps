@@ -4,6 +4,7 @@
 @@||fortinet.com
 @@||google.com
 @@||oraclecloud.com
+@@||naver.com
 
 chatango.com
 facebook.com
