@@ -60,3 +60,17 @@ moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fu
 moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:nth-child(6)
 
 1337x.to#@#a[style]
+
+tvchak.com###advertiseLive
+tvchak.com###advertiseInPlayer > div.banner-ad-container > img.banner-ad-image.img-lazy:last-child
+torrentj88.com###thema_wrapper > table:nth-child(5)
+torrentj88.com###thema_wrapper > table:nth-child(6)
+torrentj88.com###thema_wrapper > table:nth-child(7)
+tfreeca22.top##table:nth-child(5) > tbody > tr > td:first-child
+torrentcall14.com###container > div:first-child
+torrentcall14.com###container > div:nth-child(3)
+torrentcall14.com###container > div:nth-child(4)
+torrentcall14.com###container > div:nth-child(5)
+torrentcall14.com###container > div:nth-child(6)
+torrentcall14.com###container > div:nth-child(7)
+torrentcall14.com###container > div:nth-child(8)
