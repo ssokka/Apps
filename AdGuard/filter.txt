@@ -74,3 +74,49 @@ torrentcall14.com###container > div:nth-child(5)
 torrentcall14.com###container > div:nth-child(6)
 torrentcall14.com###container > div:nth-child(7)
 torrentcall14.com###container > div:nth-child(8)
+
+torrentj88.com###thema_wrapper > table:nth-child(5)
+torrentj88.com###thema_wrapper > table:nth-child(6)
+torrentj88.com###thema_wrapper > table:nth-child(7)
+tfreeca22.top##table:nth-child(5) > tbody > tr > td:first-child
+torrentcall14.com###container > div:first-child
+torrentcall14.com###container > div:nth-child(3)
+torrentcall14.com###container > div:nth-child(4)
+torrentcall14.com###container > div:nth-child(5)
+torrentcall14.com###container > div:nth-child(6)
+torrentcall14.com###container > div:nth-child(7)
+torrentcall14.com###container > div:nth-child(8)
+||*.pl/*
+||*.ch/*
+||*.fr/*
+||*.lt/*
+||*.pl/*
+||*.gh/*
+||*.ua/*
+||*.es/*
+||*.it/*
+||*.ru/*
+||*.fi/*
+||*.cz/*
+||*.sk/*
+||*.nl/*
+||*.lv/*
+||*.si/*
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container > div.row.at-row > div.col-md-3.pull-left.at-col.at-side:last-child > div.widget-side:last-child > div.hidden-sm.hidden-xs > div > div:nth-child(2)
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row.at-row:last-child > div.col-md-12 > div.widget-box:nth-child(2)
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row.at-row:last-child > div.col-md-12 > div.h20:first-child
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row.at-row:last-child > div.col-md-12 > div.widget-box:nth-child(3)
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row.at-row:last-child > div.col-md-12 > div.col-sm-9:nth-child(4) > div.row > div.panel.panel_custom.ens:first-child
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row.at-row:last-child > div.col-md-12 > div.hidden-sm.hidden-xs:last-child > div.row > div.col-md-3
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-3.pull-left.at-col.at-side:last-child > div.widget-side:last-child > div.hidden-sm.hidden-xs > div > div:nth-child(2)
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(6) > div.row.at-row:nth-child(2) > div.col-md-12 > div.widget-box:nth-child(2)
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(5) > div.row.at-row:nth-child(2) > div.col-md-12 > div.h20:first-child
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(4) > div.row.at-row:nth-child(2) > div.col-md-12 > div.h20:first-child
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(4) > div.row.at-row:nth-child(2) > div.col-md-12 > div.widget-box:nth-child(2)
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(5) > div.row.at-row:nth-child(2) > div.col-md-12 > div.widget-box:nth-child(2)
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container.widget-index:nth-child(2) > div.col-md-12.pull-right.at-col.at-main:first-child > div.row.at-row > div.col-sm-9:nth-child(4) > div:first-child
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container.widget-index:nth-child(2) > div.hidden-sm.hidden-xs:last-child > div.col-md-3.pull-left.at-col.at-side > div > div:first-child
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container.widget-index:nth-child(2) > div.hidden-sm.hidden-xs:last-child > div.col-md-3.pull-left.at-col.at-side > div > div:nth-child(2)
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container.widget-index:nth-child(2) > div.col-md-12.pull-right.at-col.at-main:first-child > div.row.at-row > div.col-sm-12:first-child
+torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container.widget-index:nth-child(2) > div.col-md-12.pull-right.at-col.at-main:first-child > div.row.at-row > div.col-sm-12:nth-child(2)
+
