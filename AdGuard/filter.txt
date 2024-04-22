@@ -29,6 +29,9 @@ trustarc.com
 a4.dasiboda.is
 addthis.com
 
+tv40.wiki###container > div.partner-br-wrap:nth-child(2)
+tv40.wiki###container > div.view-content:nth-child(3) > div.partner-br-wrap:nth-child(3)
+
 tfreeca22.com##body > table > tbody > tr > td:first-child
 tfreeca22.com##.partner\d+*
 tfreeca22.com##a[href*="#"]
