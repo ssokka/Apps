@@ -13,31 +13,12 @@ trustarc.com
 a4.dasiboda.is
 addthis.com
 
-silvertreetvlink.blogspot.com###navbar-iframe
-disqus.com
-supervid.com
-supervid.net
-hlsplay.com
-hlsplay.net
-jetload.com
-jetload.net
-gounlimited.to
-verystream*.270p.mp4
-verystream*.360p.mp4
-verystream*.450p.mp4
-verystream.com/doge-wow
-
 tfreeca22.com##body > table > tbody > tr > td:first-child
 tfreeca22.com##.partner\d+*
 tfreeca22.com##a[href*="#"]
 tfreeca22.com##.view_content > tbody > tr:first-child
 tfreeca22.com##.view_content > tbody > tr:nth-child(2) > td > div
-
-torrentwal.com##div[id*="_ad_"]
-torrentwal.com##div[id*="inserting"]
-
-torrentmu1.net###hd_pops_1
-torrentmu1.net###hd_pops_2
+tfreeca22.top##table:nth-child(5) > tbody > tr > td:first-child
 
 onnada.com##header:nth-child(10) > nav > div.layout-top:first-child > div.submenu:nth-child(3) > div.wrap > ul > li:last-child > a.title:first-child
 onnada.com##header:nth-child(11) > nav > div.layout-top:first-child > div.submenu:nth-child(3) > div.wrap > ul > li:last-child > a.title:first-child
@@ -46,18 +27,7 @@ tvkim.com/banner
 
 ##a > img.banner_right
 
-torrenger.com###banner*
-
 ##div.container:nth-child(4) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161542.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child
-
-moca-2080.com###floatdiv_l1
-moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.wif_wrap:last-child > div:nth-child(2)
-moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:first-child
-moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:nth-child(2)
-moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:nth-child(3)
-moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:nth-child(4)
-moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:nth-child(5)
-moca-2080.com##div.theme_sports:nth-child(7) > div.at-body:nth-child(4) > div.fug > div.main_wrapper > div.main_wi_p:first-child > div.main_content.wif_set > div:nth-child(6)
 
 1337x.to#@#a[style]
 
@@ -75,17 +45,6 @@ torrentcall14.com###container > div:nth-child(6)
 torrentcall14.com###container > div:nth-child(7)
 torrentcall14.com###container > div:nth-child(8)
 
-torrentj88.com###thema_wrapper > table:nth-child(5)
-torrentj88.com###thema_wrapper > table:nth-child(6)
-torrentj88.com###thema_wrapper > table:nth-child(7)
-tfreeca22.top##table:nth-child(5) > tbody > tr > td:first-child
-torrentcall14.com###container > div:first-child
-torrentcall14.com###container > div:nth-child(3)
-torrentcall14.com###container > div:nth-child(4)
-torrentcall14.com###container > div:nth-child(5)
-torrentcall14.com###container > div:nth-child(6)
-torrentcall14.com###container > div:nth-child(7)
-torrentcall14.com###container > div:nth-child(8)
 ||*.pl/*
 ||*.ch/*
 ||*.fr/*
@@ -102,6 +61,7 @@ torrentcall14.com###container > div:nth-child(8)
 ||*.nl/*
 ||*.lv/*
 ||*.si/*
+
 torrentpi133.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container > div.row.at-row > div.col-md-3.pull-left.at-col.at-side:last-child > div.widget-side:last-child > div.hidden-sm.hidden-xs > div > div:nth-child(2)
 torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row.at-row:last-child > div.col-md-12 > div.widget-box:nth-child(2)
 torrentpi133.com###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row.at-row:last-child > div.col-md-12 > div.h20:first-child
